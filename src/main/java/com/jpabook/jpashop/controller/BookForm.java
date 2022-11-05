@@ -13,6 +13,4 @@ public class BookForm {
     private int stockQuantity;
     private String author;
     private String isbn;
-
-    // 테스트
 }
